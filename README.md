@@ -16,10 +16,7 @@ run: python manage.py makemigrations
 run: python manage.py migrate
 run: python manage.py runserver
 
-2. UI Interface
-   ![Screenshot (2854)](https://github.com/user-attachments/assets/5a0ecb78-49b9-400a-b4d9-1f00da6eaf78)
-
-3. **Test the API Endpoints:**
+2. **Test the API Endpoints:**
    A. User Signup (POST Request)
    ```url
    http://127.0.0.1:8000/api/signup/
@@ -33,5 +30,5 @@ C. Upload File (POST Request)
    ```url
             http://127.0.0.1:8000/api/download/
 
-4. **Run the Server**
+3. **Run the Server**
    python manage.py runserver
