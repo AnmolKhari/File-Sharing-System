@@ -4,7 +4,7 @@ Welcome! This repository provides an easy-to-use setup guide for running the app
 
 ## Git Repository
 
-The project can be found at: [File-Sharing System GitHub Repository]((https://github.com/AnmolKhari/File-Sharing-System))
+The project can be found at: [File-Sharing System GitHub Repository](https://github.com/AnmolKhari/File-Sharing-System)
 
 ## Setup Guide
 
