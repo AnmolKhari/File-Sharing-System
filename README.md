@@ -31,3 +31,6 @@ C. Upload File (POST Request)
 
 3. **Run the Server**
    python manage.py runserver
+
+4. **Interface**
+![Screenshot (2854)](https://github.com/user-attachments/assets/5a0ecb78-49b9-400a-b4d9-1f00da6eaf78)
